@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="about_message">Turning your selfie into a unique Android Bot is quick and easy, powered by Google AI. Here\'s a peek behind the curtain:</string>
+    <string name="about_message">Turning your selfie into a unique Android Bot is quick and easy. Here\'s a peek behind the curtain:</string>
     <string name="about_step1_label">Share a selfie and Gemini Flash instantly analyzes it, creating a comprehensive description that captures key details like your accessories, clothing and overall style.</string>
     <string name="about_step1_title">Choose a photo</string>
     <string name="about_step2_label">Our specially fine tuned imagen model uses the detailed description from Gemini Flash to generate a personalized Android Bot that reflects your unique look in the iconic Android style. </string>
